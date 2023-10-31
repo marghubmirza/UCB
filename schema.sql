@@ -1,5 +1,3 @@
-// mirza marghub 
-
 
 CREATE TABLE card_holder (
   id INT NOT NULL,
