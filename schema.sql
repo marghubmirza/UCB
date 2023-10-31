@@ -1,3 +1,6 @@
+// mirza
+
+
 CREATE TABLE card_holder (
   id INT NOT NULL,
   name VARCHAR(50),
